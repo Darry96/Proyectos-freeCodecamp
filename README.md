@@ -1,2 +1,2 @@
 # Proyectos-freeCodecamp
-Ejercicios de cursos de freeCodecamo
+Ejercicios de cursos de freeCodecamp
